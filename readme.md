@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryanshhh28" alt="suryanshhh28" /></a> </p>
 
-- 🔭 I’m currently working on **Cipher**
+- 🔭 I’m currently working on **Cipher, Weather Application**
 
 - 🌱 I’m currently learning **Vanila.js, React.js, Python, Django, Java, C++,**
 
