@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twtsuryansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtsuryansh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19431992/suryansh-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19431992/suryansh-chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/syncsuryansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syncsuryansh" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://learnwithsuryansh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://learnwithsuryansh.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suryanshhh28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryanshhh28/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suryanshchaudhary28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryanshchaudhary28" height="30" width="40" /></a>
 </p>
