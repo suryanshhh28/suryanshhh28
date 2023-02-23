@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryanshhh28" alt="suryanshhh28" /></a> </p>
 
-- 🔭 I’m currently working on **Cipher, Weather Application**
+- 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **Vanila.js, React.js, Python, Django, Java, C++,**
+- 🌱 I’m currently learning **React.js, Node.js, Python, Django**
 
 - 📝 I regularly write articles on [https://learnwithsuryansh.hashnode.dev/](https://learnwithsuryansh.hashnode.dev/)
 
