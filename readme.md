@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **React.js, Node.js, Python, Django**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, Python, Django**
 
 - 📝 I regularly write articles on [https://learnwithsuryansh.hashnode.dev/](https://learnwithsuryansh.hashnode.dev/)
 
