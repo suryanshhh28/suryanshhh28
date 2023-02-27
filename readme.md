@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **suryanshchaudhary28@gmail.com**
 
-- ⚡ Fun fact **I love gym🏋️‍♂️ and chess♟️**
+- ⚡ Fun fact **I love reading📚 and chess♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
