@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Chaudhary</h1>
-<h3 align="center">Passionate about full stack development, machine learning and web3</h3>
+<h3 align="center">Passionate about full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshhh28&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshhh28" /> </p>
 
